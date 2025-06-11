@@ -30,6 +30,7 @@ time, mark, audio, video {
 
 body {
     line-height:1;
+    font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
 }
 
 article,aside,details,figcaption,figure,
